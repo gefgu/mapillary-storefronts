@@ -33,3 +33,6 @@ For a random sample of POIs (storefront-like categories first), the pipeline ask
 
 ## License
 Code: MIT (`LICENSE`). Data and photos: see `DATA_LICENSES.md` (Overture CDLA-Permissive-2.0, Mapillary CC BY-SA 4.0, OpenStreetMap ODbL).
+
+## Deploying without GitHub Actions
+`scripts/deploy-gh-pages.sh` builds the app and force-pushes `web/dist` to the `gh-pages` branch. Then set Settings → Pages → Source to *Deploy from a branch* → `gh-pages` / (root). Rerun the script after any change to the app or data.
