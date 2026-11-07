@@ -1,0 +1,2402 @@
+{
+ "4d1e4732-e6d6-4d20-9b84-b821533c5df2": {
+  "image_id": "1431013258777717",
+  "image_file": "images/4d1e4732-e6d6-4d20-9b84-b821533c5df2.jpg",
+  "captured_at": "2026-04-29",
+  "distance_m": 22.7,
+  "angle_diff": 14.4,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1431013258777717"
+ },
+ "240dbedb-0a58-4cff-8609-cc60e561b71e": {
+  "image_id": "2033540894194474",
+  "image_file": "images/240dbedb-0a58-4cff-8609-cc60e561b71e.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 8.3,
+  "angle_diff": 3.1,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=2033540894194474"
+ },
+ "cf99591a-3c23-44ef-a80b-d0996753b5bb": {
+  "image_id": "1778256476500961",
+  "image_file": "images/cf99591a-3c23-44ef-a80b-d0996753b5bb.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 10.8,
+  "angle_diff": 23.3,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1778256476500961"
+ },
+ "9ce60464-2cc9-4238-b875-13e74e81d7f9": {
+  "image_id": "3191711681015324",
+  "image_file": "images/9ce60464-2cc9-4238-b875-13e74e81d7f9.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 22.0,
+  "angle_diff": 21.5,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=3191711681015324"
+ },
+ "1b15d522-f404-4c3f-a979-8e4df86eb9c9": {
+  "image_id": "3133054123544558",
+  "image_file": "images/1b15d522-f404-4c3f-a979-8e4df86eb9c9.jpg",
+  "captured_at": "2026-04-24",
+  "distance_m": 4.7,
+  "angle_diff": 17.3,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=3133054123544558"
+ },
+ "d41d1808-9342-4bbd-bb96-3f77f43ed4b1": {
+  "image_id": "1433473461464777",
+  "image_file": "images/d41d1808-9342-4bbd-bb96-3f77f43ed4b1.jpg",
+  "captured_at": "2024-09-19",
+  "distance_m": 28.3,
+  "angle_diff": 1.8,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1433473461464777"
+ },
+ "27f152aa-602e-41c3-8c74-c6384c816e16": {
+  "image_id": "1433473461464777",
+  "image_file": "images/27f152aa-602e-41c3-8c74-c6384c816e16.jpg",
+  "captured_at": "2024-09-19",
+  "distance_m": 21.9,
+  "angle_diff": 13.3,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1433473461464777"
+ },
+ "c8b91692-b4cd-4902-a8b6-84ca4a4346aa": {
+  "image_id": "1433473461464777",
+  "image_file": "images/c8b91692-b4cd-4902-a8b6-84ca4a4346aa.jpg",
+  "captured_at": "2024-09-19",
+  "distance_m": 28.3,
+  "angle_diff": 1.8,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1433473461464777"
+ },
+ "e047a55b-3455-4356-9966-6e64016d5fd1": {
+  "image_id": "3904124279886714",
+  "image_file": "images/e047a55b-3455-4356-9966-6e64016d5fd1.jpg",
+  "captured_at": "2024-09-19",
+  "distance_m": 28.4,
+  "angle_diff": 23.1,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=3904124279886714"
+ },
+ "cbd5a572-9c38-4640-b2b0-50f371ea7e6d": {
+  "image_id": "742169792223947",
+  "image_file": "images/cbd5a572-9c38-4640-b2b0-50f371ea7e6d.jpg",
+  "captured_at": "2026-04-21",
+  "distance_m": 24.2,
+  "angle_diff": 1.5,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=742169792223947"
+ },
+ "97ad9af5-cd58-4645-a273-d7ce2ade930d": {
+  "image_id": "1554877972435357",
+  "image_file": "images/97ad9af5-cd58-4645-a273-d7ce2ade930d.jpg",
+  "captured_at": "2024-09-19",
+  "distance_m": 29.9,
+  "angle_diff": 7.5,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1554877972435357"
+ },
+ "a0d1fee0-2e3b-4f71-8d9c-67d57cf29076": {
+  "image_id": "653619267814270",
+  "image_file": "images/a0d1fee0-2e3b-4f71-8d9c-67d57cf29076.jpg",
+  "captured_at": "2024-09-19",
+  "distance_m": 17.5,
+  "angle_diff": 13.6,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=653619267814270"
+ },
+ "5f967890-7b88-458f-a624-c121a15031bf": {
+  "image_id": "3844569679184020",
+  "image_file": "images/5f967890-7b88-458f-a624-c121a15031bf.jpg",
+  "captured_at": "2024-09-19",
+  "distance_m": 14.3,
+  "angle_diff": 5.8,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=3844569679184020"
+ },
+ "90082b0a-7ccb-4262-bb32-85cdc9b5e199": {
+  "image_id": "1526104382869994",
+  "image_file": "images/90082b0a-7ccb-4262-bb32-85cdc9b5e199.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 26.8,
+  "angle_diff": 1.4,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1526104382869994"
+ },
+ "72e5845a-bbbc-44c4-907d-33d63c016fbf": {
+  "image_id": "1697280665258065",
+  "image_file": "images/72e5845a-bbbc-44c4-907d-33d63c016fbf.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 9.5,
+  "angle_diff": 12.8,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1697280665258065"
+ },
+ "f05adc6f-9ced-43ba-8266-fc591049eaf6": {
+  "image_id": "4087657438197939",
+  "image_file": "images/f05adc6f-9ced-43ba-8266-fc591049eaf6.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 20.4,
+  "angle_diff": 15.4,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=4087657438197939"
+ },
+ "a26b193d-6a92-4b9c-8a97-f1f0b6842f18": {
+  "image_id": "1323746308818373",
+  "image_file": "images/a26b193d-6a92-4b9c-8a97-f1f0b6842f18.jpg",
+  "captured_at": "2025-01-16",
+  "distance_m": 4.5,
+  "angle_diff": 20.6,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1323746308818373"
+ },
+ "f246e332-2011-4785-bb4d-0b8d5605a71f": {
+  "image_id": "1484196879722502",
+  "image_file": "images/f246e332-2011-4785-bb4d-0b8d5605a71f.jpg",
+  "captured_at": "2026-04-22",
+  "distance_m": 21.6,
+  "angle_diff": 24.6,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1484196879722502"
+ },
+ "b55137ac-6ffb-44e2-b377-bdec6fb7525c": {
+  "image_id": "542030100519477",
+  "image_file": "images/b55137ac-6ffb-44e2-b377-bdec6fb7525c.jpg",
+  "captured_at": "2022-03-20",
+  "distance_m": 16.7,
+  "angle_diff": 7.2,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=542030100519477"
+ },
+ "cb344938-51c3-44d5-9d61-f45b1b7f04c9": {
+  "image_id": "1908292989840178",
+  "image_file": "images/cb344938-51c3-44d5-9d61-f45b1b7f04c9.jpg",
+  "captured_at": "2026-04-22",
+  "distance_m": 27.9,
+  "angle_diff": 24.5,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1908292989840178"
+ },
+ "810c155b-2989-483b-8478-c3c084675ff0": {
+  "image_id": "1659753088419064",
+  "image_file": "images/810c155b-2989-483b-8478-c3c084675ff0.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 21.2,
+  "angle_diff": 22.6,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1659753088419064"
+ },
+ "bff0b721-3a56-4316-a94a-e71193441eeb": {
+  "image_id": "1050882734472088",
+  "image_file": "images/bff0b721-3a56-4316-a94a-e71193441eeb.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 28.4,
+  "angle_diff": 23.0,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1050882734472088"
+ },
+ "ff69d43e-aefc-40c0-922c-31136ca94984": {
+  "image_id": "1683249733381013",
+  "image_file": "images/ff69d43e-aefc-40c0-922c-31136ca94984.jpg",
+  "captured_at": "2026-07-19",
+  "distance_m": 23.6,
+  "angle_diff": 5.4,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1683249733381013"
+ },
+ "a6ae70f4-ced6-4dcc-91af-8067a8459ae6": {
+  "image_id": "1641100723880469",
+  "image_file": "images/a6ae70f4-ced6-4dcc-91af-8067a8459ae6.jpg",
+  "captured_at": "2026-04-22",
+  "distance_m": 29.2,
+  "angle_diff": 17.2,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1641100723880469"
+ },
+ "5687df00-56aa-4807-a5ef-fabc891522de": {
+  "image_id": "25986716147684700",
+  "image_file": "images/5687df00-56aa-4807-a5ef-fabc891522de.jpg",
+  "captured_at": "2024-09-19",
+  "distance_m": 7.5,
+  "angle_diff": 5.5,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=25986716147684700"
+ },
+ "0b8fbc84-b945-4d5c-8956-dc510c5f30a0": {
+  "image_id": "958666950463443",
+  "image_file": "images/0b8fbc84-b945-4d5c-8956-dc510c5f30a0.jpg",
+  "captured_at": "2026-04-22",
+  "distance_m": 28.5,
+  "angle_diff": 23.0,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=958666950463443"
+ },
+ "384b3b31-0843-4725-9179-3832f9697b41": {
+  "image_id": "1901434141262799",
+  "image_file": "images/384b3b31-0843-4725-9179-3832f9697b41.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 17.7,
+  "angle_diff": 21.5,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1901434141262799"
+ },
+ "c354786d-cdb5-4366-8466-044f79dd9fba": {
+  "image_id": "1804963056867893",
+  "image_file": "images/c354786d-cdb5-4366-8466-044f79dd9fba.jpg",
+  "captured_at": "2024-09-19",
+  "distance_m": 24.3,
+  "angle_diff": 19.7,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1804963056867893"
+ },
+ "a868ff50-c820-4405-bf5e-404a9ccaa933": {
+  "image_id": "1324615619661830",
+  "image_file": "images/a868ff50-c820-4405-bf5e-404a9ccaa933.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 14.0,
+  "angle_diff": 4.9,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1324615619661830"
+ },
+ "2f1962ab-53e5-4b7a-963d-a9cfc40a225f": {
+  "image_id": "1433473461464777",
+  "image_file": "images/2f1962ab-53e5-4b7a-963d-a9cfc40a225f.jpg",
+  "captured_at": "2024-09-19",
+  "distance_m": 28.3,
+  "angle_diff": 1.8,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1433473461464777"
+ },
+ "b4ecaa97-7a90-42a1-86ab-3d9fc0f79211": {
+  "image_id": "1281193303457070",
+  "image_file": "images/b4ecaa97-7a90-42a1-86ab-3d9fc0f79211.jpg",
+  "captured_at": "2026-04-21",
+  "distance_m": 17.6,
+  "angle_diff": 2.3,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1281193303457070"
+ },
+ "8b0e2da3-e6ce-4eab-ae29-b9038b4baedf": {
+  "image_id": "2077424213058494",
+  "image_file": "images/8b0e2da3-e6ce-4eab-ae29-b9038b4baedf.jpg",
+  "captured_at": "2024-09-19",
+  "distance_m": 5.1,
+  "angle_diff": 18.2,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=2077424213058494"
+ },
+ "1606bb45-5b7d-419a-a298-d2e16fefe0c3": {
+  "image_id": "830057329539496",
+  "image_file": "images/1606bb45-5b7d-419a-a298-d2e16fefe0c3.jpg",
+  "captured_at": "2026-04-22",
+  "distance_m": 11.3,
+  "angle_diff": 19.9,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=830057329539496"
+ },
+ "e84b0e41-d515-4b72-bebd-5769780a6d0d": {
+  "image_id": "1037322945857446",
+  "image_file": "images/e84b0e41-d515-4b72-bebd-5769780a6d0d.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 21.1,
+  "angle_diff": 17.0,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1037322945857446"
+ },
+ "109a10b9-f9a1-4fc7-bbe2-320cfb8a9a50": {
+  "image_id": "2486985941761328",
+  "image_file": "images/109a10b9-f9a1-4fc7-bbe2-320cfb8a9a50.jpg",
+  "captured_at": "2026-04-24",
+  "distance_m": 27.1,
+  "angle_diff": 13.4,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=2486985941761328"
+ },
+ "7d06f4e7-9022-4266-9231-81fb542bfecd": {
+  "image_id": "2087138792186734",
+  "image_file": "images/7d06f4e7-9022-4266-9231-81fb542bfecd.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 21.6,
+  "angle_diff": 23.7,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=2087138792186734"
+ },
+ "d35989ec-7659-4373-b646-935e980dfe6c": {
+  "image_id": "731576583112874",
+  "image_file": "images/d35989ec-7659-4373-b646-935e980dfe6c.jpg",
+  "captured_at": "2024-09-19",
+  "distance_m": 27.3,
+  "angle_diff": 2.9,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=731576583112874"
+ },
+ "686e764a-835a-4afe-8e30-4a4ffd37aa7c": {
+  "image_id": "1489889786085332",
+  "image_file": "images/686e764a-835a-4afe-8e30-4a4ffd37aa7c.jpg",
+  "captured_at": "2026-04-22",
+  "distance_m": 28.4,
+  "angle_diff": 17.7,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1489889786085332"
+ },
+ "d2b76c22-2912-43c1-886f-f19c73368565": {
+  "image_id": "1014210714826220",
+  "image_file": "images/d2b76c22-2912-43c1-886f-f19c73368565.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 21.9,
+  "angle_diff": 22.9,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1014210714826220"
+ },
+ "2f005c0c-127b-4a23-9d6a-93b0c19fda0c": {
+  "image_id": "4531529757122413",
+  "image_file": "images/2f005c0c-127b-4a23-9d6a-93b0c19fda0c.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 24.1,
+  "angle_diff": 0.1,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=4531529757122413"
+ },
+ "14ebe22e-81e0-401d-8e34-a70c17996819": {
+  "image_id": "1335599641988267",
+  "image_file": "images/14ebe22e-81e0-401d-8e34-a70c17996819.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 16.7,
+  "angle_diff": 13.0,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1335599641988267"
+ },
+ "9139af30-5de5-49b9-b155-f1728837794e": {
+  "image_id": "1493845342333311",
+  "image_file": "images/9139af30-5de5-49b9-b155-f1728837794e.jpg",
+  "captured_at": "2026-04-24",
+  "distance_m": 16.7,
+  "angle_diff": 24.2,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1493845342333311"
+ },
+ "8a82b139-68a3-444d-9fe1-c7a12aaceae7": {
+  "image_id": "2469669896813977",
+  "image_file": "images/8a82b139-68a3-444d-9fe1-c7a12aaceae7.jpg",
+  "captured_at": "2026-04-22",
+  "distance_m": 16.6,
+  "angle_diff": 12.2,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=2469669896813977"
+ },
+ "78259c1d-a224-436e-b9d7-6b43a703d85f": {
+  "image_id": "1335909118697788",
+  "image_file": "images/78259c1d-a224-436e-b9d7-6b43a703d85f.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 4.0,
+  "angle_diff": 0.6,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1335909118697788"
+ },
+ "7c635fdd-940a-4f65-a48f-254a68743637": {
+  "image_id": "926774476835759",
+  "image_file": "images/7c635fdd-940a-4f65-a48f-254a68743637.jpg",
+  "captured_at": "2026-04-21",
+  "distance_m": 19.6,
+  "angle_diff": 13.8,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=926774476835759"
+ },
+ "b647c229-b266-48fd-9cc8-375794801824": {
+  "image_id": "1399694902050056",
+  "image_file": "images/b647c229-b266-48fd-9cc8-375794801824.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 29.9,
+  "angle_diff": 21.9,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1399694902050056"
+ },
+ "eb0822fa-e7ec-4611-a2fb-c4559bee9c01": {
+  "image_id": "1036907792030698",
+  "image_file": "images/eb0822fa-e7ec-4611-a2fb-c4559bee9c01.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 10.2,
+  "angle_diff": 13.2,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1036907792030698"
+ },
+ "91123d61-dc68-490a-ab80-c632f86c314a": {
+  "image_id": "1485636623011008",
+  "image_file": "images/91123d61-dc68-490a-ab80-c632f86c314a.jpg",
+  "captured_at": "2026-04-29",
+  "distance_m": 14.3,
+  "angle_diff": 5.2,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1485636623011008"
+ },
+ "28fef748-ddf2-4726-b4e6-f6fbe4b3e61f": {
+  "image_id": "1433473461464777",
+  "image_file": "images/28fef748-ddf2-4726-b4e6-f6fbe4b3e61f.jpg",
+  "captured_at": "2024-09-19",
+  "distance_m": 28.3,
+  "angle_diff": 1.8,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1433473461464777"
+ },
+ "752c5f79-f516-4d55-b1e1-93c829bd88bc": {
+  "image_id": "1993606834561802",
+  "image_file": "images/752c5f79-f516-4d55-b1e1-93c829bd88bc.jpg",
+  "captured_at": "2026-04-22",
+  "distance_m": 22.2,
+  "angle_diff": 24.4,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1993606834561802"
+ },
+ "9309e01f-6eed-44cd-9f15-0bc62794d8b9": {
+  "image_id": "958666950463443",
+  "image_file": "images/9309e01f-6eed-44cd-9f15-0bc62794d8b9.jpg",
+  "captured_at": "2026-04-22",
+  "distance_m": 18.6,
+  "angle_diff": 4.1,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=958666950463443"
+ },
+ "06457999-ded5-4392-bc67-fbc51526fc7c": {
+  "image_id": "33363592243289283",
+  "image_file": "images/06457999-ded5-4392-bc67-fbc51526fc7c.jpg",
+  "captured_at": "2024-09-19",
+  "distance_m": 28.7,
+  "angle_diff": 14.8,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=33363592243289283"
+ },
+ "61f30e50-7de5-4ae2-bc6a-6517b5c34767": {
+  "image_id": "2849706415365990",
+  "image_file": "images/61f30e50-7de5-4ae2-bc6a-6517b5c34767.jpg",
+  "captured_at": "2026-04-22",
+  "distance_m": 24.5,
+  "angle_diff": 4.2,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=2849706415365990"
+ },
+ "01ed3e17-9606-4b63-ace1-2d4efecbf437": {
+  "image_id": "1488379206003337",
+  "image_file": "images/01ed3e17-9606-4b63-ace1-2d4efecbf437.jpg",
+  "captured_at": "2026-04-29",
+  "distance_m": 23.8,
+  "angle_diff": 19.1,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1488379206003337"
+ },
+ "6e4e0976-5830-4f06-b42f-eda84848a67a": {
+  "image_id": "886070514579709",
+  "image_file": "images/6e4e0976-5830-4f06-b42f-eda84848a67a.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 28.8,
+  "angle_diff": 18.9,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=886070514579709"
+ },
+ "dddfee6a-fd50-4490-9dc7-a067628c9da5": {
+  "image_id": "1369488051800970",
+  "image_file": "images/dddfee6a-fd50-4490-9dc7-a067628c9da5.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 25.6,
+  "angle_diff": 22.7,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1369488051800970"
+ },
+ "e76f490b-b95a-4f15-8855-72d84f739627": {
+  "image_id": "1254176686873384",
+  "image_file": "images/e76f490b-b95a-4f15-8855-72d84f739627.jpg",
+  "captured_at": "2026-04-21",
+  "distance_m": 17.0,
+  "angle_diff": 16.8,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1254176686873384"
+ },
+ "1987f175-2780-4f9b-846e-5dc530f30f92": {
+  "image_id": "1012387498230313",
+  "image_file": "images/1987f175-2780-4f9b-846e-5dc530f30f92.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 10.0,
+  "angle_diff": 19.5,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1012387498230313"
+ },
+ "118bdede-3bc7-4b1d-b22d-69aca2f57311": {
+  "image_id": "949019181171668",
+  "image_file": "images/118bdede-3bc7-4b1d-b22d-69aca2f57311.jpg",
+  "captured_at": "2026-04-22",
+  "distance_m": 2.6,
+  "angle_diff": 13.0,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=949019181171668"
+ },
+ "af388d75-0cf8-4b54-8a69-bbc9cf495bcc": {
+  "image_id": "830057329539496",
+  "image_file": "images/af388d75-0cf8-4b54-8a69-bbc9cf495bcc.jpg",
+  "captured_at": "2026-04-22",
+  "distance_m": 22.8,
+  "angle_diff": 24.1,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=830057329539496"
+ },
+ "25ff6a03-fdf6-4d0d-a348-c903adb5a7fb": {
+  "image_id": "1738811273684548",
+  "image_file": "images/25ff6a03-fdf6-4d0d-a348-c903adb5a7fb.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 27.7,
+  "angle_diff": 15.5,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1738811273684548"
+ },
+ "7c1145a8-788e-4cf9-8c59-e198611063b9": {
+  "image_id": "835926955643411",
+  "image_file": "images/7c1145a8-788e-4cf9-8c59-e198611063b9.jpg",
+  "captured_at": "2026-04-29",
+  "distance_m": 9.9,
+  "angle_diff": 19.5,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=835926955643411"
+ },
+ "6bd9d6c5-a27c-4e57-830a-3d571ea13d33": {
+  "image_id": "664787481467746",
+  "image_file": "images/6bd9d6c5-a27c-4e57-830a-3d571ea13d33.jpg",
+  "captured_at": "2022-03-20",
+  "distance_m": 23.6,
+  "angle_diff": 20.8,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=664787481467746"
+ },
+ "054f454b-e806-47ec-b529-f20699741a58": {
+  "image_id": "1433473461464777",
+  "image_file": "images/054f454b-e806-47ec-b529-f20699741a58.jpg",
+  "captured_at": "2024-09-19",
+  "distance_m": 28.3,
+  "angle_diff": 1.8,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1433473461464777"
+ },
+ "520379ca-3385-415f-9ff2-502d9475db94": {
+  "image_id": "1352478676403491",
+  "image_file": "images/520379ca-3385-415f-9ff2-502d9475db94.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 21.2,
+  "angle_diff": 21.5,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1352478676403491"
+ },
+ "d2a78336-af08-4826-a315-6d31db7f878a": {
+  "image_id": "2328370591006412",
+  "image_file": "images/d2a78336-af08-4826-a315-6d31db7f878a.jpg",
+  "captured_at": "2026-04-22",
+  "distance_m": 13.1,
+  "angle_diff": 20.1,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=2328370591006412"
+ },
+ "ad5e1c26-027c-4f49-8df5-dd7aa81627a2": {
+  "image_id": "912936211849926",
+  "image_file": "images/ad5e1c26-027c-4f49-8df5-dd7aa81627a2.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 29.1,
+  "angle_diff": 20.5,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=912936211849926"
+ },
+ "8c32af29-fa64-4dd4-9fff-9bb04347db4f": {
+  "image_id": "954931270237938",
+  "image_file": "images/8c32af29-fa64-4dd4-9fff-9bb04347db4f.jpg",
+  "captured_at": "2026-04-22",
+  "distance_m": 13.1,
+  "angle_diff": 16.5,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=954931270237938"
+ },
+ "7d0d3f4b-05b4-4ef6-9ed7-407ad0c0af78": {
+  "image_id": "1433473461464777",
+  "image_file": "images/7d0d3f4b-05b4-4ef6-9ed7-407ad0c0af78.jpg",
+  "captured_at": "2024-09-19",
+  "distance_m": 28.3,
+  "angle_diff": 1.8,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1433473461464777"
+ },
+ "e88d452f-b4e5-41b1-96b3-b6f27b0b1d72": {
+  "image_id": "1086262727166132",
+  "image_file": "images/e88d452f-b4e5-41b1-96b3-b6f27b0b1d72.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 12.7,
+  "angle_diff": 17.2,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1086262727166132"
+ },
+ "bbb33daf-c14a-4016-b18b-690c2bf533aa": {
+  "image_id": "1297635909221041",
+  "image_file": "images/bbb33daf-c14a-4016-b18b-690c2bf533aa.jpg",
+  "captured_at": "2026-04-29",
+  "distance_m": 27.5,
+  "angle_diff": 16.0,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1297635909221041"
+ },
+ "6972e406-0df9-4535-83b1-88bd19ca19b5": {
+  "image_id": "973509172029459",
+  "image_file": "images/6972e406-0df9-4535-83b1-88bd19ca19b5.jpg",
+  "captured_at": "2026-04-22",
+  "distance_m": 22.9,
+  "angle_diff": 21.1,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=973509172029459"
+ },
+ "48c1663f-c2e2-4c15-b230-f056cffb6cf1": {
+  "image_id": "979710394642473",
+  "image_file": "images/48c1663f-c2e2-4c15-b230-f056cffb6cf1.jpg",
+  "captured_at": "2026-05-14",
+  "distance_m": 11.5,
+  "angle_diff": 22.4,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=979710394642473"
+ },
+ "a472fbfa-57be-4341-ba10-6f6d69253b56": {
+  "image_id": "1754075365575027",
+  "image_file": "images/a472fbfa-57be-4341-ba10-6f6d69253b56.jpg",
+  "captured_at": "2026-05-14",
+  "distance_m": 10.5,
+  "angle_diff": 16.0,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1754075365575027"
+ },
+ "429241e8-ee57-493e-9205-d183c535e301": {
+  "image_id": "2261430977943962",
+  "image_file": "images/429241e8-ee57-493e-9205-d183c535e301.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 26.7,
+  "angle_diff": 18.6,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=2261430977943962"
+ },
+ "b560c90d-c2a1-471b-a8fc-1285110c7c26": {
+  "image_id": "1532263215190069",
+  "image_file": "images/b560c90d-c2a1-471b-a8fc-1285110c7c26.jpg",
+  "captured_at": "2026-05-14",
+  "distance_m": 8.4,
+  "angle_diff": 24.8,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1532263215190069"
+ },
+ "23c09279-7f95-41ef-a401-1e0bee78ffa4": {
+  "image_id": "742169792223947",
+  "image_file": "images/23c09279-7f95-41ef-a401-1e0bee78ffa4.jpg",
+  "captured_at": "2026-04-21",
+  "distance_m": 24.2,
+  "angle_diff": 1.5,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=742169792223947"
+ },
+ "a86efc67-6174-429b-b3e7-0eca4f0b98eb": {
+  "image_id": "1040536658573245",
+  "image_file": "images/a86efc67-6174-429b-b3e7-0eca4f0b98eb.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 26.7,
+  "angle_diff": 1.7,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1040536658573245"
+ },
+ "ad290f4c-2b12-473b-9008-96fb7d7dc170": {
+  "image_id": "1394897425599798",
+  "image_file": "images/ad290f4c-2b12-473b-9008-96fb7d7dc170.jpg",
+  "captured_at": "2026-07-19",
+  "distance_m": 27.1,
+  "angle_diff": 1.5,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1394897425599798"
+ },
+ "72a298d2-8f74-4fd9-8720-20af65882bec": {
+  "image_id": "1433473461464777",
+  "image_file": "images/72a298d2-8f74-4fd9-8720-20af65882bec.jpg",
+  "captured_at": "2024-09-19",
+  "distance_m": 28.3,
+  "angle_diff": 1.8,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1433473461464777"
+ },
+ "0560aded-0cbe-4431-ba57-3771fb3d3aee": {
+  "image_id": "1433473461464777",
+  "image_file": "images/0560aded-0cbe-4431-ba57-3771fb3d3aee.jpg",
+  "captured_at": "2024-09-19",
+  "distance_m": 28.3,
+  "angle_diff": 1.8,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1433473461464777"
+ },
+ "9ffabced-e625-4079-ba47-8f23d43dec52": {
+  "image_id": "1632328231405037",
+  "image_file": "images/9ffabced-e625-4079-ba47-8f23d43dec52.jpg",
+  "captured_at": "2026-04-21",
+  "distance_m": 28.6,
+  "angle_diff": 8.0,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1632328231405037"
+ },
+ "4172fd0b-7456-4b84-8518-aa1108bbf82e": {
+  "image_id": "1258044146232084",
+  "image_file": "images/4172fd0b-7456-4b84-8518-aa1108bbf82e.jpg",
+  "captured_at": "2024-09-19",
+  "distance_m": 21.4,
+  "angle_diff": 24.1,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1258044146232084"
+ },
+ "d81cf7fe-3518-4c53-87df-aadef7cf8a7d": {
+  "image_id": "1362378765262459",
+  "image_file": "images/d81cf7fe-3518-4c53-87df-aadef7cf8a7d.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 24.7,
+  "angle_diff": 24.7,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1362378765262459"
+ },
+ "d6c96432-1a16-46bb-9d67-9b97a6b8cb0f": {
+  "image_id": "1513328646822358",
+  "image_file": "images/d6c96432-1a16-46bb-9d67-9b97a6b8cb0f.jpg",
+  "captured_at": "2026-04-22",
+  "distance_m": 7.7,
+  "angle_diff": 4.9,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1513328646822358"
+ },
+ "02f49636-57ab-4174-8188-897b5ffaf42b": {
+  "image_id": "1356284435887546",
+  "image_file": "images/02f49636-57ab-4174-8188-897b5ffaf42b.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 4.5,
+  "angle_diff": 16.1,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1356284435887546"
+ },
+ "0034f868-f420-428d-a941-e576b0fe7418": {
+  "image_id": "2175344593211380",
+  "image_file": "images/0034f868-f420-428d-a941-e576b0fe7418.jpg",
+  "captured_at": "2026-04-22",
+  "distance_m": 27.1,
+  "angle_diff": 17.4,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=2175344593211380"
+ },
+ "cb34dbc3-68a5-4445-83fa-1291fc0f6cda": {
+  "image_id": "2742129212848198",
+  "image_file": "images/cb34dbc3-68a5-4445-83fa-1291fc0f6cda.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 29.2,
+  "angle_diff": 19.0,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=2742129212848198"
+ },
+ "33347deb-1ddb-42d8-b2a0-b9b3304c824b": {
+  "image_id": "1067845079001566",
+  "image_file": "images/33347deb-1ddb-42d8-b2a0-b9b3304c824b.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 14.9,
+  "angle_diff": 9.8,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1067845079001566"
+ },
+ "7982655a-096c-474f-903e-bbb2c3858e84": {
+  "image_id": "1433473461464777",
+  "image_file": "images/7982655a-096c-474f-903e-bbb2c3858e84.jpg",
+  "captured_at": "2024-09-19",
+  "distance_m": 28.3,
+  "angle_diff": 1.8,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1433473461464777"
+ },
+ "56da5f3b-1385-4548-a9a0-58b8765e865f": {
+  "image_id": "1532263215190069",
+  "image_file": "images/56da5f3b-1385-4548-a9a0-58b8765e865f.jpg",
+  "captured_at": "2026-05-14",
+  "distance_m": 19.5,
+  "angle_diff": 22.0,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1532263215190069"
+ },
+ "243f2bbd-bb03-42d4-a175-ffe3833386b8": {
+  "image_id": "1732610824605445",
+  "image_file": "images/243f2bbd-bb03-42d4-a175-ffe3833386b8.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 17.0,
+  "angle_diff": 14.6,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1732610824605445"
+ },
+ "6e34ab46-e8e6-40d9-be7f-20fc02d57799": {
+  "image_id": "1433473461464777",
+  "image_file": "images/6e34ab46-e8e6-40d9-be7f-20fc02d57799.jpg",
+  "captured_at": "2024-09-19",
+  "distance_m": 29.6,
+  "angle_diff": 7.8,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1433473461464777"
+ },
+ "d6005da9-d259-4833-83d0-7ce953f77a00": {
+  "image_id": "1804963056867893",
+  "image_file": "images/d6005da9-d259-4833-83d0-7ce953f77a00.jpg",
+  "captured_at": "2024-09-19",
+  "distance_m": 18.3,
+  "angle_diff": 9.3,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1804963056867893"
+ },
+ "ca20d4e2-893e-485d-8bed-40a4e76b7aee": {
+  "image_id": "1206458348298659",
+  "image_file": "images/ca20d4e2-893e-485d-8bed-40a4e76b7aee.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 22.8,
+  "angle_diff": 23.2,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1206458348298659"
+ },
+ "cbb1f147-4786-4e59-9854-43921498de95": {
+  "image_id": "737277055849845",
+  "image_file": "images/cbb1f147-4786-4e59-9854-43921498de95.jpg",
+  "captured_at": "2024-09-19",
+  "distance_m": 28.0,
+  "angle_diff": 1.2,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=737277055849845"
+ },
+ "60613bb1-e4d5-4dcd-9a29-6ff554ed0e4c": {
+  "image_id": "1674667513626239",
+  "image_file": "images/60613bb1-e4d5-4dcd-9a29-6ff554ed0e4c.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 27.7,
+  "angle_diff": 22.7,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1674667513626239"
+ },
+ "b2359292-ee4a-4148-abd6-240329d0cbd2": {
+  "image_id": "4329957903912808",
+  "image_file": "images/b2359292-ee4a-4148-abd6-240329d0cbd2.jpg",
+  "captured_at": "2026-04-22",
+  "distance_m": 26.1,
+  "angle_diff": 20.7,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=4329957903912808"
+ },
+ "cb4d9ae6-4cab-4430-a31f-888120214ae4": {
+  "image_id": "2071726739924602",
+  "image_file": "images/cb4d9ae6-4cab-4430-a31f-888120214ae4.jpg",
+  "captured_at": "2025-01-16",
+  "distance_m": 29.8,
+  "angle_diff": 5.1,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=2071726739924602"
+ },
+ "e2dd401e-59df-431c-ba5f-f09d2e91da74": {
+  "image_id": "1433473461464777",
+  "image_file": "images/e2dd401e-59df-431c-ba5f-f09d2e91da74.jpg",
+  "captured_at": "2024-09-19",
+  "distance_m": 28.3,
+  "angle_diff": 1.8,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1433473461464777"
+ },
+ "44401133-ec17-40a7-9095-3e6590595525": {
+  "image_id": "3246999658934836",
+  "image_file": "images/44401133-ec17-40a7-9095-3e6590595525.jpg",
+  "captured_at": "2026-04-21",
+  "distance_m": 18.7,
+  "angle_diff": 9.9,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=3246999658934836"
+ },
+ "247aff7f-3a99-4f8d-a469-40ffa238a1a8": {
+  "image_id": "2077957779430509",
+  "image_file": "images/247aff7f-3a99-4f8d-a469-40ffa238a1a8.jpg",
+  "captured_at": "2026-04-24",
+  "distance_m": 11.5,
+  "angle_diff": 12.5,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=2077957779430509"
+ },
+ "a02c91a4-5dbf-4a4e-8e45-ebd35e2811da": {
+  "image_id": "2077957779430509",
+  "image_file": "images/a02c91a4-5dbf-4a4e-8e45-ebd35e2811da.jpg",
+  "captured_at": "2026-04-24",
+  "distance_m": 11.5,
+  "angle_diff": 12.5,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=2077957779430509"
+ },
+ "cc7dce78-c360-4e90-9327-e96b42750c5c": {
+  "image_id": "958666950463443",
+  "image_file": "images/cc7dce78-c360-4e90-9327-e96b42750c5c.jpg",
+  "captured_at": "2026-04-22",
+  "distance_m": 18.6,
+  "angle_diff": 4.1,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=958666950463443"
+ },
+ "1bc3ebeb-0107-460f-93b7-c70d0b5d328f": {
+  "image_id": "1441312673938943",
+  "image_file": "images/1bc3ebeb-0107-460f-93b7-c70d0b5d328f.jpg",
+  "captured_at": "2026-04-21",
+  "distance_m": 27.5,
+  "angle_diff": 23.0,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1441312673938943"
+ },
+ "fcbc613d-4d13-4466-9726-3ed92656969e": {
+  "image_id": "1290757483252306",
+  "image_file": "images/fcbc613d-4d13-4466-9726-3ed92656969e.jpg",
+  "captured_at": "2026-04-23",
+  "distance_m": 16.0,
+  "angle_diff": 11.4,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1290757483252306"
+ },
+ "b8a6460e-7223-467b-8657-1e79c460f40e": {
+  "image_id": "1484196879722502",
+  "image_file": "images/b8a6460e-7223-467b-8657-1e79c460f40e.jpg",
+  "captured_at": "2026-04-22",
+  "distance_m": 26.9,
+  "angle_diff": 22.5,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1484196879722502"
+ },
+ "e2a7ebd8-d5b3-41bf-bfe5-d0e4cca113ad": {
+  "image_id": "994555129640453",
+  "image_file": "images/e2a7ebd8-d5b3-41bf-bfe5-d0e4cca113ad.jpg",
+  "captured_at": "2026-04-29",
+  "distance_m": 20.4,
+  "angle_diff": 24.9,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=994555129640453"
+ },
+ "7848fcc1-995e-4133-9943-22f2bd545e25": {
+  "image_id": "1543592057265193",
+  "image_file": "images/7848fcc1-995e-4133-9943-22f2bd545e25.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 21.8,
+  "angle_diff": 15.4,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1543592057265193"
+ },
+ "bf9d4ccd-fee1-45eb-8c4f-bdf4a4785005": {
+  "image_id": "1188337099968942",
+  "image_file": "images/bf9d4ccd-fee1-45eb-8c4f-bdf4a4785005.jpg",
+  "captured_at": "2026-04-21",
+  "distance_m": 12.6,
+  "angle_diff": 15.7,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1188337099968942"
+ },
+ "2d7a92e3-b2d6-44b8-85ca-f5cb2d88e005": {
+  "image_id": "1611039063696831",
+  "image_file": "images/2d7a92e3-b2d6-44b8-85ca-f5cb2d88e005.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 17.9,
+  "angle_diff": 13.8,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1611039063696831"
+ },
+ "edb559f9-9e2b-4003-b9b4-1e4b0e8692de": {
+  "image_id": "2077957779430509",
+  "image_file": "images/edb559f9-9e2b-4003-b9b4-1e4b0e8692de.jpg",
+  "captured_at": "2026-04-24",
+  "distance_m": 11.5,
+  "angle_diff": 12.5,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=2077957779430509"
+ },
+ "81c26add-ecc0-4e97-8ed4-1c394ea41762": {
+  "image_id": "1985391412178317",
+  "image_file": "images/81c26add-ecc0-4e97-8ed4-1c394ea41762.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 21.8,
+  "angle_diff": 20.3,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1985391412178317"
+ },
+ "6083b5da-1133-49a7-b1f5-f21d04e4e30e": {
+  "image_id": "1010045138513208",
+  "image_file": "images/6083b5da-1133-49a7-b1f5-f21d04e4e30e.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 29.6,
+  "angle_diff": 19.1,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1010045138513208"
+ },
+ "9acd09b1-91e2-4133-b7e3-06ebe2700974": {
+  "image_id": "1554877972435357",
+  "image_file": "images/9acd09b1-91e2-4133-b7e3-06ebe2700974.jpg",
+  "captured_at": "2024-09-19",
+  "distance_m": 29.9,
+  "angle_diff": 7.5,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1554877972435357"
+ },
+ "6e19de6a-0c9f-429b-83f4-7c86a38de889": {
+  "image_id": "1554877972435357",
+  "image_file": "images/6e19de6a-0c9f-429b-83f4-7c86a38de889.jpg",
+  "captured_at": "2024-09-19",
+  "distance_m": 22.1,
+  "angle_diff": 11.9,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1554877972435357"
+ },
+ "651e707c-8b6c-4c1e-9b3b-e97337894d9f": {
+  "image_id": "1433473461464777",
+  "image_file": "images/651e707c-8b6c-4c1e-9b3b-e97337894d9f.jpg",
+  "captured_at": "2024-09-19",
+  "distance_m": 28.3,
+  "angle_diff": 1.8,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1433473461464777"
+ },
+ "84107fc5-2cae-4231-b716-fdf9e112063c": {
+  "image_id": "1611497853672949",
+  "image_file": "images/84107fc5-2cae-4231-b716-fdf9e112063c.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 19.7,
+  "angle_diff": 24.5,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1611497853672949"
+ },
+ "9e18dd50-d0ee-4d9b-9e00-0bddde3a4ea1": {
+  "image_id": "794871343716263",
+  "image_file": "images/9e18dd50-d0ee-4d9b-9e00-0bddde3a4ea1.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 6.7,
+  "angle_diff": 12.1,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=794871343716263"
+ },
+ "0836235c-58e2-437f-b54c-f71e64ecb369": {
+  "image_id": "2790438081319529",
+  "image_file": "images/0836235c-58e2-437f-b54c-f71e64ecb369.jpg",
+  "captured_at": "2026-04-23",
+  "distance_m": 28.9,
+  "angle_diff": 21.3,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=2790438081319529"
+ },
+ "0ff60cd3-0692-40fc-8a9d-bb695595ff0f": {
+  "image_id": "1433473461464777",
+  "image_file": "images/0ff60cd3-0692-40fc-8a9d-bb695595ff0f.jpg",
+  "captured_at": "2024-09-19",
+  "distance_m": 28.3,
+  "angle_diff": 1.8,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1433473461464777"
+ },
+ "32f9a383-45c3-4078-80fa-97c649da7de2": {
+  "image_id": "827845563155051",
+  "image_file": "images/32f9a383-45c3-4078-80fa-97c649da7de2.jpg",
+  "captured_at": "2026-04-22",
+  "distance_m": 22.0,
+  "angle_diff": 17.0,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=827845563155051"
+ },
+ "8e88ab42-61bf-43ac-bbde-f51ff7cab5e5": {
+  "image_id": "2516346322143637",
+  "image_file": "images/8e88ab42-61bf-43ac-bbde-f51ff7cab5e5.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 24.5,
+  "angle_diff": 1.8,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=2516346322143637"
+ },
+ "843211a9-20f3-442c-bbef-d5a4f74f40b7": {
+  "image_id": "33363592243289283",
+  "image_file": "images/843211a9-20f3-442c-bbef-d5a4f74f40b7.jpg",
+  "captured_at": "2024-09-19",
+  "distance_m": 28.7,
+  "angle_diff": 14.8,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=33363592243289283"
+ },
+ "95764edc-779f-4075-9273-109c56bbeb03": {
+  "image_id": "2227145017820611",
+  "image_file": "images/95764edc-779f-4075-9273-109c56bbeb03.jpg",
+  "captured_at": "2026-04-29",
+  "distance_m": 23.2,
+  "angle_diff": 19.6,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=2227145017820611"
+ },
+ "00d46c37-6c07-4492-9bd5-b2c21ee36041": {
+  "image_id": "4087657438197939",
+  "image_file": "images/00d46c37-6c07-4492-9bd5-b2c21ee36041.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 20.4,
+  "angle_diff": 15.4,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=4087657438197939"
+ },
+ "a12ea1df-f824-4869-a7b3-155a6122d2ec": {
+  "image_id": "987336237459605",
+  "image_file": "images/a12ea1df-f824-4869-a7b3-155a6122d2ec.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 20.3,
+  "angle_diff": 10.8,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=987336237459605"
+ },
+ "97aaa647-50bb-496f-b23d-f671d78784a2": {
+  "image_id": "1433473461464777",
+  "image_file": "images/97aaa647-50bb-496f-b23d-f671d78784a2.jpg",
+  "captured_at": "2024-09-19",
+  "distance_m": 28.3,
+  "angle_diff": 1.8,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1433473461464777"
+ },
+ "9452a82f-7059-4de6-8a84-97fc3f86f9ef": {
+  "image_id": "2288797894978271",
+  "image_file": "images/9452a82f-7059-4de6-8a84-97fc3f86f9ef.jpg",
+  "captured_at": "2026-04-22",
+  "distance_m": 29.8,
+  "angle_diff": 22.9,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=2288797894978271"
+ },
+ "e8cfd6b0-e5e8-44d9-936f-444ed1e6ee23": {
+  "image_id": "1433473461464777",
+  "image_file": "images/e8cfd6b0-e5e8-44d9-936f-444ed1e6ee23.jpg",
+  "captured_at": "2024-09-19",
+  "distance_m": 28.3,
+  "angle_diff": 1.8,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1433473461464777"
+ },
+ "b3d474f0-83b6-4b61-93f6-f0d24193e479": {
+  "image_id": "1211362223951115",
+  "image_file": "images/b3d474f0-83b6-4b61-93f6-f0d24193e479.jpg",
+  "captured_at": "2024-09-19",
+  "distance_m": 20.3,
+  "angle_diff": 13.4,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1211362223951115"
+ },
+ "1b9a53e4-e894-4e8e-99c0-29f349fab40c": {
+  "image_id": "1010045138513208",
+  "image_file": "images/1b9a53e4-e894-4e8e-99c0-29f349fab40c.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 29.6,
+  "angle_diff": 19.1,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1010045138513208"
+ },
+ "63f6148c-b5eb-4104-8ac6-e7cb175235f4": {
+  "image_id": "1433473461464777",
+  "image_file": "images/63f6148c-b5eb-4104-8ac6-e7cb175235f4.jpg",
+  "captured_at": "2024-09-19",
+  "distance_m": 28.3,
+  "angle_diff": 1.8,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1433473461464777"
+ },
+ "77f74672-9e37-4f61-985c-f7c939750b09": {
+  "image_id": "1495004858880574",
+  "image_file": "images/77f74672-9e37-4f61-985c-f7c939750b09.jpg",
+  "captured_at": "2026-04-21",
+  "distance_m": 4.5,
+  "angle_diff": 20.9,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1495004858880574"
+ },
+ "572b63fb-d395-43d9-bba7-62efb817aaa7": {
+  "image_id": "4087657438197939",
+  "image_file": "images/572b63fb-d395-43d9-bba7-62efb817aaa7.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 20.4,
+  "angle_diff": 15.4,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=4087657438197939"
+ },
+ "28c8d0bf-bbea-4682-b2a6-60510dd797fc": {
+  "image_id": "4087657438197939",
+  "image_file": "images/28c8d0bf-bbea-4682-b2a6-60510dd797fc.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 15.7,
+  "angle_diff": 21.9,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=4087657438197939"
+ },
+ "4ea60dff-d87f-4bde-ba32-d0b4f1c1e1dd": {
+  "image_id": "2162180554516063",
+  "image_file": "images/4ea60dff-d87f-4bde-ba32-d0b4f1c1e1dd.jpg",
+  "captured_at": "2026-04-24",
+  "distance_m": 28.2,
+  "angle_diff": 20.7,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=2162180554516063"
+ },
+ "ba573210-b3ea-4961-b2e5-ef7c110d0d2c": {
+  "image_id": "2410508202802829",
+  "image_file": "images/ba573210-b3ea-4961-b2e5-ef7c110d0d2c.jpg",
+  "captured_at": "2026-04-22",
+  "distance_m": 18.4,
+  "angle_diff": 21.5,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=2410508202802829"
+ },
+ "f0874a15-691f-4f18-af98-012d98e61a46": {
+  "image_id": "731576583112874",
+  "image_file": "images/f0874a15-691f-4f18-af98-012d98e61a46.jpg",
+  "captured_at": "2024-09-19",
+  "distance_m": 23.4,
+  "angle_diff": 13.1,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=731576583112874"
+ },
+ "7e62e7c6-dbd4-444d-89e6-03b1ab41f51b": {
+  "image_id": "390069339222566",
+  "image_file": "images/7e62e7c6-dbd4-444d-89e6-03b1ab41f51b.jpg",
+  "captured_at": "2022-03-20",
+  "distance_m": 14.6,
+  "angle_diff": 5.7,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=390069339222566"
+ },
+ "7ff61108-74e9-4c84-a73b-4943cf4d1d10": {
+  "image_id": "731576583112874",
+  "image_file": "images/7ff61108-74e9-4c84-a73b-4943cf4d1d10.jpg",
+  "captured_at": "2024-09-19",
+  "distance_m": 27.3,
+  "angle_diff": 2.9,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=731576583112874"
+ },
+ "65a132a5-9f01-477c-943a-e84783fe1147": {
+  "image_id": "1433473461464777",
+  "image_file": "images/65a132a5-9f01-477c-943a-e84783fe1147.jpg",
+  "captured_at": "2024-09-19",
+  "distance_m": 28.3,
+  "angle_diff": 1.8,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1433473461464777"
+ },
+ "4ecc6602-7e5f-45f5-9d34-c21c7e8a860f": {
+  "image_id": "899578635951559",
+  "image_file": "images/4ecc6602-7e5f-45f5-9d34-c21c7e8a860f.jpg",
+  "captured_at": "2024-09-19",
+  "distance_m": 17.2,
+  "angle_diff": 10.6,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=899578635951559"
+ },
+ "3f0ede00-f40e-4600-8d49-260727124359": {
+  "image_id": "1335599641988267",
+  "image_file": "images/3f0ede00-f40e-4600-8d49-260727124359.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 23.6,
+  "angle_diff": 22.4,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1335599641988267"
+ },
+ "c5845c15-199c-4031-9814-3441fed2c815": {
+  "image_id": "1433473461464777",
+  "image_file": "images/c5845c15-199c-4031-9814-3441fed2c815.jpg",
+  "captured_at": "2024-09-19",
+  "distance_m": 28.3,
+  "angle_diff": 1.8,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1433473461464777"
+ },
+ "1961a62e-5db2-4bba-a5f1-d50eb9f01ef5": {
+  "image_id": "4087657438197939",
+  "image_file": "images/1961a62e-5db2-4bba-a5f1-d50eb9f01ef5.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 20.5,
+  "angle_diff": 18.1,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=4087657438197939"
+ },
+ "fc3685c8-790f-48b0-8fba-4f9717055d6d": {
+  "image_id": "1568830804977374",
+  "image_file": "images/fc3685c8-790f-48b0-8fba-4f9717055d6d.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 5.7,
+  "angle_diff": 20.3,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1568830804977374"
+ },
+ "95801afb-0c2d-477e-beaf-314b708e1f7b": {
+  "image_id": "1309070374424510",
+  "image_file": "images/95801afb-0c2d-477e-beaf-314b708e1f7b.jpg",
+  "captured_at": "2026-04-21",
+  "distance_m": 14.7,
+  "angle_diff": 23.2,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1309070374424510"
+ },
+ "c48c07de-3d94-420f-882c-bb5b5c06da8d": {
+  "image_id": "880738225132364",
+  "image_file": "images/c48c07de-3d94-420f-882c-bb5b5c06da8d.jpg",
+  "captured_at": "2024-09-19",
+  "distance_m": 23.5,
+  "angle_diff": 15.1,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=880738225132364"
+ },
+ "b3fc0b3e-f069-4e7c-b6a0-a43c7d94d35d": {
+  "image_id": "2077957779430509",
+  "image_file": "images/b3fc0b3e-f069-4e7c-b6a0-a43c7d94d35d.jpg",
+  "captured_at": "2026-04-24",
+  "distance_m": 11.5,
+  "angle_diff": 12.5,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=2077957779430509"
+ },
+ "cbda8582-ff70-40af-90dc-baf75be075b5": {
+  "image_id": "1214657245065952",
+  "image_file": "images/cbda8582-ff70-40af-90dc-baf75be075b5.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 12.9,
+  "angle_diff": 13.1,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1214657245065952"
+ },
+ "b1126c88-d6d9-4496-858a-c18e3589aaa7": {
+  "image_id": "1526104382869994",
+  "image_file": "images/b1126c88-d6d9-4496-858a-c18e3589aaa7.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 28.1,
+  "angle_diff": 1.9,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1526104382869994"
+ },
+ "7702ad35-79f3-404b-a6ee-7abd43c2cf6b": {
+  "image_id": "1017897837717230",
+  "image_file": "images/7702ad35-79f3-404b-a6ee-7abd43c2cf6b.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 11.6,
+  "angle_diff": 11.0,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1017897837717230"
+ },
+ "0587c044-757f-4f86-9af0-e622f30dcd84": {
+  "image_id": "1764124668360933",
+  "image_file": "images/0587c044-757f-4f86-9af0-e622f30dcd84.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 13.6,
+  "angle_diff": 17.5,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1764124668360933"
+ },
+ "bf947105-f517-4899-b581-a20577c59536": {
+  "image_id": "1035872805511664",
+  "image_file": "images/bf947105-f517-4899-b581-a20577c59536.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 13.3,
+  "angle_diff": 20.4,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1035872805511664"
+ },
+ "f325dbf2-2375-4285-bf78-ed43f8acc1a1": {
+  "image_id": "951479144446187",
+  "image_file": "images/f325dbf2-2375-4285-bf78-ed43f8acc1a1.jpg",
+  "captured_at": "2026-04-22",
+  "distance_m": 28.9,
+  "angle_diff": 22.1,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=951479144446187"
+ },
+ "f2bd618c-6155-4635-8c2a-7ad66b7fce9d": {
+  "image_id": "2077424213058494",
+  "image_file": "images/f2bd618c-6155-4635-8c2a-7ad66b7fce9d.jpg",
+  "captured_at": "2024-09-19",
+  "distance_m": 29.6,
+  "angle_diff": 2.1,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=2077424213058494"
+ },
+ "42e61875-1fe5-4441-a7a7-1f21685a308a": {
+  "image_id": "4339043176359099",
+  "image_file": "images/42e61875-1fe5-4441-a7a7-1f21685a308a.jpg",
+  "captured_at": "2026-04-24",
+  "distance_m": 10.1,
+  "angle_diff": 18.7,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=4339043176359099"
+ },
+ "836a0260-ee47-4c87-806f-c7b5aafde3b7": {
+  "image_id": "771072089273571",
+  "image_file": "images/836a0260-ee47-4c87-806f-c7b5aafde3b7.jpg",
+  "captured_at": "2026-04-21",
+  "distance_m": 14.9,
+  "angle_diff": 8.3,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=771072089273571"
+ },
+ "11ada105-0614-4ec5-b12d-d45572d9ff17": {
+  "image_id": "1433473461464777",
+  "image_file": "images/11ada105-0614-4ec5-b12d-d45572d9ff17.jpg",
+  "captured_at": "2024-09-19",
+  "distance_m": 28.3,
+  "angle_diff": 1.8,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1433473461464777"
+ },
+ "f2a5fed5-9653-4e04-8536-20e1156fe289": {
+  "image_id": "1555383116260395",
+  "image_file": "images/f2a5fed5-9653-4e04-8536-20e1156fe289.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 12.9,
+  "angle_diff": 15.0,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1555383116260395"
+ },
+ "2fc1b232-0af3-435e-b2dc-82e3c018d774": {
+  "image_id": "2077424213058494",
+  "image_file": "images/2fc1b232-0af3-435e-b2dc-82e3c018d774.jpg",
+  "captured_at": "2024-09-19",
+  "distance_m": 21.9,
+  "angle_diff": 5.2,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=2077424213058494"
+ },
+ "cc149e29-5b0b-45ce-9004-dc937c3bc221": {
+  "image_id": "950718517814518",
+  "image_file": "images/cc149e29-5b0b-45ce-9004-dc937c3bc221.jpg",
+  "captured_at": "2026-04-29",
+  "distance_m": 25.4,
+  "angle_diff": 0.2,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=950718517814518"
+ },
+ "3164dfa0-4e12-43a6-89e9-dc2f7b8df84e": {
+  "image_id": "1433473461464777",
+  "image_file": "images/3164dfa0-4e12-43a6-89e9-dc2f7b8df84e.jpg",
+  "captured_at": "2024-09-19",
+  "distance_m": 28.3,
+  "angle_diff": 1.8,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1433473461464777"
+ },
+ "015b5460-a554-45d9-a90a-4d97ca4861a2": {
+  "image_id": "1326955536089000",
+  "image_file": "images/015b5460-a554-45d9-a90a-4d97ca4861a2.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 24.1,
+  "angle_diff": 24.0,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1326955536089000"
+ },
+ "384b706e-c45f-4056-92be-e2472fd5ea60": {
+  "image_id": "2128613994354286",
+  "image_file": "images/384b706e-c45f-4056-92be-e2472fd5ea60.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 7.7,
+  "angle_diff": 24.0,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=2128613994354286"
+ },
+ "cba8235b-9aba-4c9d-aa7e-a49bc2406880": {
+  "image_id": "1355030656070169",
+  "image_file": "images/cba8235b-9aba-4c9d-aa7e-a49bc2406880.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 21.6,
+  "angle_diff": 1.3,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1355030656070169"
+ },
+ "13d23fdb-4303-480a-8e06-f7e61b630866": {
+  "image_id": "1464568252079926",
+  "image_file": "images/13d23fdb-4303-480a-8e06-f7e61b630866.jpg",
+  "captured_at": "2026-04-21",
+  "distance_m": 29.8,
+  "angle_diff": 15.2,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1464568252079926"
+ },
+ "eb424d08-1fb6-4c96-879b-ea793a2f5afe": {
+  "image_id": "3051511711724864",
+  "image_file": "images/eb424d08-1fb6-4c96-879b-ea793a2f5afe.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 22.7,
+  "angle_diff": 11.4,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=3051511711724864"
+ },
+ "556801bf-d56e-4201-9e5d-c23acdacecf9": {
+  "image_id": "2479021465883188",
+  "image_file": "images/556801bf-d56e-4201-9e5d-c23acdacecf9.jpg",
+  "captured_at": "2026-05-05",
+  "distance_m": 18.8,
+  "angle_diff": 16.4,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=2479021465883188"
+ },
+ "35d6e97c-da6d-4153-9dbd-f4b734c76a90": {
+  "image_id": "2071726739924602",
+  "image_file": "images/35d6e97c-da6d-4153-9dbd-f4b734c76a90.jpg",
+  "captured_at": "2025-01-16",
+  "distance_m": 11.0,
+  "angle_diff": 18.9,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=2071726739924602"
+ },
+ "f33943ea-85c4-4111-95e6-3343a011c430": {
+  "image_id": "1416160740227432",
+  "image_file": "images/f33943ea-85c4-4111-95e6-3343a011c430.jpg",
+  "captured_at": "2024-09-19",
+  "distance_m": 23.4,
+  "angle_diff": 4.0,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1416160740227432"
+ },
+ "f0c18d63-6157-4433-807e-daf7d284157d": {
+  "image_id": "2430082387430211",
+  "image_file": "images/f0c18d63-6157-4433-807e-daf7d284157d.jpg",
+  "captured_at": "2026-04-24",
+  "distance_m": 28.0,
+  "angle_diff": 22.0,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=2430082387430211"
+ },
+ "7fc6bdfc-200a-4956-816f-05851b849c26": {
+  "image_id": "1350441963579994",
+  "image_file": "images/7fc6bdfc-200a-4956-816f-05851b849c26.jpg",
+  "captured_at": "2026-04-21",
+  "distance_m": 9.9,
+  "angle_diff": 0.2,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1350441963579994"
+ },
+ "846a5e87-250d-445a-9aa6-6943c36f985a": {
+  "image_id": "731576583112874",
+  "image_file": "images/846a5e87-250d-445a-9aa6-6943c36f985a.jpg",
+  "captured_at": "2024-09-19",
+  "distance_m": 27.3,
+  "angle_diff": 2.9,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=731576583112874"
+ },
+ "17d03ab7-2264-411e-b1ae-d27673379343": {
+  "image_id": "1497927345056976",
+  "image_file": "images/17d03ab7-2264-411e-b1ae-d27673379343.jpg",
+  "captured_at": "2026-04-22",
+  "distance_m": 18.5,
+  "angle_diff": 7.4,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1497927345056976"
+ },
+ "d66cf69d-28ba-4d51-a94c-aab391b1704d": {
+  "image_id": "1888918205098575",
+  "image_file": "images/d66cf69d-28ba-4d51-a94c-aab391b1704d.jpg",
+  "captured_at": "2026-05-14",
+  "distance_m": 25.7,
+  "angle_diff": 16.9,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1888918205098575"
+ },
+ "f06491ca-96ed-4e98-a873-69e92e5f835f": {
+  "image_id": "1029129782837434",
+  "image_file": "images/f06491ca-96ed-4e98-a873-69e92e5f835f.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 16.4,
+  "angle_diff": 23.3,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1029129782837434"
+ },
+ "efbdc6f6-3cae-45e1-840a-dfceb878f116": {
+  "image_id": "1430641871956528",
+  "image_file": "images/efbdc6f6-3cae-45e1-840a-dfceb878f116.jpg",
+  "captured_at": "2024-09-19",
+  "distance_m": 27.9,
+  "angle_diff": 0.5,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1430641871956528"
+ },
+ "9a6de063-cc52-426c-a1b6-be7078a92a06": {
+  "image_id": "28770354129223462",
+  "image_file": "images/9a6de063-cc52-426c-a1b6-be7078a92a06.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 10.4,
+  "angle_diff": 5.4,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=28770354129223462"
+ },
+ "b7e60202-f308-477d-8f69-31dda9e391c2": {
+  "image_id": "1433473461464777",
+  "image_file": "images/b7e60202-f308-477d-8f69-31dda9e391c2.jpg",
+  "captured_at": "2024-09-19",
+  "distance_m": 28.3,
+  "angle_diff": 1.8,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1433473461464777"
+ },
+ "e5fb2307-6898-4e1a-8685-1d44991dc95b": {
+  "image_id": "1433473461464777",
+  "image_file": "images/e5fb2307-6898-4e1a-8685-1d44991dc95b.jpg",
+  "captured_at": "2024-09-19",
+  "distance_m": 28.3,
+  "angle_diff": 1.8,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1433473461464777"
+ },
+ "73e7ade7-24fc-4325-b660-19e08d2d8d36": {
+  "image_id": "4293814100886151",
+  "image_file": "images/73e7ade7-24fc-4325-b660-19e08d2d8d36.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 19.9,
+  "angle_diff": 5.3,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=4293814100886151"
+ },
+ "36093179-91fb-435f-8c2c-c27aac452269": {
+  "image_id": "1241608424622285",
+  "image_file": "images/36093179-91fb-435f-8c2c-c27aac452269.jpg",
+  "captured_at": "2026-04-22",
+  "distance_m": 17.5,
+  "angle_diff": 1.1,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1241608424622285"
+ },
+ "ad0f18fb-f4b4-44d4-8edc-317eb67a7478": {
+  "image_id": "1819288182114606",
+  "image_file": "images/ad0f18fb-f4b4-44d4-8edc-317eb67a7478.jpg",
+  "captured_at": "2024-09-19",
+  "distance_m": 21.6,
+  "angle_diff": 1.2,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1819288182114606"
+ },
+ "8d97d2f3-e06b-4687-ad86-cb2a2589d025": {
+  "image_id": "1010976301933852",
+  "image_file": "images/8d97d2f3-e06b-4687-ad86-cb2a2589d025.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 15.6,
+  "angle_diff": 21.0,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1010976301933852"
+ },
+ "fc08d73d-a7e1-481a-98c1-455a73d433bf": {
+  "image_id": "3904124279886714",
+  "image_file": "images/fc08d73d-a7e1-481a-98c1-455a73d433bf.jpg",
+  "captured_at": "2024-09-19",
+  "distance_m": 10.6,
+  "angle_diff": 14.0,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=3904124279886714"
+ },
+ "a05e24f1-d350-4efb-b9b5-1d0401c05d74": {
+  "image_id": "1433473461464777",
+  "image_file": "images/a05e24f1-d350-4efb-b9b5-1d0401c05d74.jpg",
+  "captured_at": "2024-09-19",
+  "distance_m": 28.3,
+  "angle_diff": 1.8,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1433473461464777"
+ },
+ "cc342b69-ebd0-4b9a-a3ca-48dcaa3b2ba1": {
+  "image_id": "731576583112874",
+  "image_file": "images/cc342b69-ebd0-4b9a-a3ca-48dcaa3b2ba1.jpg",
+  "captured_at": "2024-09-19",
+  "distance_m": 26.1,
+  "angle_diff": 9.9,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=731576583112874"
+ },
+ "99bb9c28-eaca-41d7-aa95-f65f38d476af": {
+  "image_id": "880738225132364",
+  "image_file": "images/99bb9c28-eaca-41d7-aa95-f65f38d476af.jpg",
+  "captured_at": "2024-09-19",
+  "distance_m": 19.2,
+  "angle_diff": 6.3,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=880738225132364"
+ },
+ "32a863ef-f650-4e61-bae5-a7c0f4fc08f7": {
+  "image_id": "1504874414695386",
+  "image_file": "images/32a863ef-f650-4e61-bae5-a7c0f4fc08f7.jpg",
+  "captured_at": "2026-05-05",
+  "distance_m": 26.4,
+  "angle_diff": 7.4,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1504874414695386"
+ },
+ "0916fd0f-62b6-44ad-81ef-6c85eaf3a9ab": {
+  "image_id": "1433473461464777",
+  "image_file": "images/0916fd0f-62b6-44ad-81ef-6c85eaf3a9ab.jpg",
+  "captured_at": "2024-09-19",
+  "distance_m": 28.3,
+  "angle_diff": 1.8,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1433473461464777"
+ },
+ "51ed2825-1f4b-4e63-a3ab-4bad14ea7a12": {
+  "image_id": "1264082905876998",
+  "image_file": "images/51ed2825-1f4b-4e63-a3ab-4bad14ea7a12.jpg",
+  "captured_at": "2026-04-24",
+  "distance_m": 28.2,
+  "angle_diff": 24.4,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1264082905876998"
+ },
+ "e14706aa-902a-478a-b426-cccad588b2b4": {
+  "image_id": "4531529757122413",
+  "image_file": "images/e14706aa-902a-478a-b426-cccad588b2b4.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 24.1,
+  "angle_diff": 0.1,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=4531529757122413"
+ },
+ "8285dbf1-95ba-4ac1-9a48-dca0e91f23e4": {
+  "image_id": "1568830804977374",
+  "image_file": "images/8285dbf1-95ba-4ac1-9a48-dca0e91f23e4.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 29.5,
+  "angle_diff": 23.2,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1568830804977374"
+ },
+ "424b5d99-fc72-4f7f-97dd-b7ab65638cf8": {
+  "image_id": "26296287543401451",
+  "image_file": "images/424b5d99-fc72-4f7f-97dd-b7ab65638cf8.jpg",
+  "captured_at": "2026-04-30",
+  "distance_m": 29.7,
+  "angle_diff": 8.1,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=26296287543401451"
+ },
+ "92607e68-adc7-444a-a691-ab88f667f551": {
+  "image_id": "2118222568734627",
+  "image_file": "images/92607e68-adc7-444a-a691-ab88f667f551.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 19.4,
+  "angle_diff": 13.5,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=2118222568734627"
+ },
+ "a531fd39-5f56-499c-b801-a352191fd293": {
+  "image_id": "2077957779430509",
+  "image_file": "images/a531fd39-5f56-499c-b801-a352191fd293.jpg",
+  "captured_at": "2026-04-24",
+  "distance_m": 11.5,
+  "angle_diff": 12.5,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=2077957779430509"
+ },
+ "a4ca12e1-316b-4381-a626-09a05d5e74bc": {
+  "image_id": "1359619982926501",
+  "image_file": "images/a4ca12e1-316b-4381-a626-09a05d5e74bc.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 5.4,
+  "angle_diff": 1.1,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1359619982926501"
+ },
+ "d045156e-e5f9-4fcd-8428-5f9808fd0946": {
+  "image_id": "1037933599162428",
+  "image_file": "images/d045156e-e5f9-4fcd-8428-5f9808fd0946.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 17.6,
+  "angle_diff": 9.5,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1037933599162428"
+ },
+ "0518af11-62cd-46e5-a641-677f759ec804": {
+  "image_id": "1433473461464777",
+  "image_file": "images/0518af11-62cd-46e5-a641-677f759ec804.jpg",
+  "captured_at": "2024-09-19",
+  "distance_m": 28.3,
+  "angle_diff": 1.8,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1433473461464777"
+ },
+ "1253f200-99b9-42a5-ab99-8042fa16205d": {
+  "image_id": "731576583112874",
+  "image_file": "images/1253f200-99b9-42a5-ab99-8042fa16205d.jpg",
+  "captured_at": "2024-09-19",
+  "distance_m": 26.3,
+  "angle_diff": 3.3,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=731576583112874"
+ },
+ "d722e30a-ce34-48bd-a8e3-12eb6f954817": {
+  "image_id": "1433473461464777",
+  "image_file": "images/d722e30a-ce34-48bd-a8e3-12eb6f954817.jpg",
+  "captured_at": "2024-09-19",
+  "distance_m": 28.3,
+  "angle_diff": 1.8,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1433473461464777"
+ },
+ "c3fe2dbb-472d-491d-baf8-2ba12e5ea717": {
+  "image_id": "1501147191487179",
+  "image_file": "images/c3fe2dbb-472d-491d-baf8-2ba12e5ea717.jpg",
+  "captured_at": "2026-05-14",
+  "distance_m": 19.5,
+  "angle_diff": 24.1,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1501147191487179"
+ },
+ "c06a0a01-ef2e-42d0-9272-12b6855cff68": {
+  "image_id": "949019181171668",
+  "image_file": "images/c06a0a01-ef2e-42d0-9272-12b6855cff68.jpg",
+  "captured_at": "2026-04-22",
+  "distance_m": 9.5,
+  "angle_diff": 14.9,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=949019181171668"
+ },
+ "a9680561-c8f3-4d02-8701-158b49c12a41": {
+  "image_id": "1173582184857050",
+  "image_file": "images/a9680561-c8f3-4d02-8701-158b49c12a41.jpg",
+  "captured_at": "2024-09-19",
+  "distance_m": 10.9,
+  "angle_diff": 4.6,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1173582184857050"
+ },
+ "fcb1ddfb-69dd-410e-9d14-436a9870c1f5": {
+  "image_id": "731576583112874",
+  "image_file": "images/fcb1ddfb-69dd-410e-9d14-436a9870c1f5.jpg",
+  "captured_at": "2024-09-19",
+  "distance_m": 17.4,
+  "angle_diff": 21.8,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=731576583112874"
+ },
+ "b6d2afdc-c282-48f8-a05d-0fe0e825636a": {
+  "image_id": "1077436719781006",
+  "image_file": "images/b6d2afdc-c282-48f8-a05d-0fe0e825636a.jpg",
+  "captured_at": "2022-03-20",
+  "distance_m": 26.6,
+  "angle_diff": 7.1,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1077436719781006"
+ },
+ "dd8003b3-cb37-4c0a-96f6-22e29aaa6bd9": {
+  "image_id": "1240813917902151",
+  "image_file": "images/dd8003b3-cb37-4c0a-96f6-22e29aaa6bd9.jpg",
+  "captured_at": "2026-05-14",
+  "distance_m": 22.7,
+  "angle_diff": 19.5,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1240813917902151"
+ },
+ "28afef9d-7dd9-4b20-8637-320a1c9fad55": {
+  "image_id": "900233462734113",
+  "image_file": "images/28afef9d-7dd9-4b20-8637-320a1c9fad55.jpg",
+  "captured_at": "2024-09-19",
+  "distance_m": 15.6,
+  "angle_diff": 6.1,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=900233462734113"
+ },
+ "680ec7fc-9d91-45a3-a067-571bd36a98ae": {
+  "image_id": "1433473461464777",
+  "image_file": "images/680ec7fc-9d91-45a3-a067-571bd36a98ae.jpg",
+  "captured_at": "2024-09-19",
+  "distance_m": 28.3,
+  "angle_diff": 1.8,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1433473461464777"
+ },
+ "a922996f-7974-4ddc-9b9a-168f128cc404": {
+  "image_id": "799086922970517",
+  "image_file": "images/a922996f-7974-4ddc-9b9a-168f128cc404.jpg",
+  "captured_at": "2026-04-22",
+  "distance_m": 26.9,
+  "angle_diff": 22.0,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=799086922970517"
+ },
+ "4217c42c-cc27-489c-8305-a1f3b91138b0": {
+  "image_id": "1067845079001566",
+  "image_file": "images/4217c42c-cc27-489c-8305-a1f3b91138b0.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 17.6,
+  "angle_diff": 21.1,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1067845079001566"
+ },
+ "f85b04c4-03bb-4627-a235-487b06251904": {
+  "image_id": "1433473461464777",
+  "image_file": "images/f85b04c4-03bb-4627-a235-487b06251904.jpg",
+  "captured_at": "2024-09-19",
+  "distance_m": 28.3,
+  "angle_diff": 1.8,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1433473461464777"
+ },
+ "019fc3fe-5885-4e0e-8d8c-9dd03533da98": {
+  "image_id": "1252540600377268",
+  "image_file": "images/019fc3fe-5885-4e0e-8d8c-9dd03533da98.jpg",
+  "captured_at": "2026-04-22",
+  "distance_m": 12.2,
+  "angle_diff": 19.0,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1252540600377268"
+ },
+ "4505de29-1de4-4f68-b2fe-c83ccaf856c6": {
+  "image_id": "656317278784329",
+  "image_file": "images/4505de29-1de4-4f68-b2fe-c83ccaf856c6.jpg",
+  "captured_at": "2022-03-20",
+  "distance_m": 10.9,
+  "angle_diff": 20.1,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=656317278784329"
+ },
+ "e76cfaf3-c6d8-4fb7-9f38-45d201cb3ca3": {
+  "image_id": "1457149268842039",
+  "image_file": "images/e76cfaf3-c6d8-4fb7-9f38-45d201cb3ca3.jpg",
+  "captured_at": "2026-04-29",
+  "distance_m": 11.6,
+  "angle_diff": 7.2,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1457149268842039"
+ },
+ "a94c0255-cda8-48ba-b8a8-873f930bb3d0": {
+  "image_id": "1593421971739648",
+  "image_file": "images/a94c0255-cda8-48ba-b8a8-873f930bb3d0.jpg",
+  "captured_at": "2026-04-24",
+  "distance_m": 28.1,
+  "angle_diff": 24.8,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1593421971739648"
+ },
+ "8b6444cf-21b2-4c4e-8074-236b9ab23745": {
+  "image_id": "906722315635068",
+  "image_file": "images/8b6444cf-21b2-4c4e-8074-236b9ab23745.jpg",
+  "captured_at": "2024-09-19",
+  "distance_m": 15.2,
+  "angle_diff": 19.3,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=906722315635068"
+ },
+ "9f76d9dd-3b11-4835-a11d-52cb1fd6ca16": {
+  "image_id": "35057175637262839",
+  "image_file": "images/9f76d9dd-3b11-4835-a11d-52cb1fd6ca16.jpg",
+  "captured_at": "2026-04-21",
+  "distance_m": 26.4,
+  "angle_diff": 24.0,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=35057175637262839"
+ },
+ "3a9ccf35-9785-48ad-9b94-3aed9a8c8308": {
+  "image_id": "2102661587003520",
+  "image_file": "images/3a9ccf35-9785-48ad-9b94-3aed9a8c8308.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 12.3,
+  "angle_diff": 13.4,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=2102661587003520"
+ },
+ "dae03be3-01ee-4e7d-a2fb-3cb8125e53a4": {
+  "image_id": "1206458348298659",
+  "image_file": "images/dae03be3-01ee-4e7d-a2fb-3cb8125e53a4.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 22.8,
+  "angle_diff": 23.2,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1206458348298659"
+ },
+ "f0953296-c205-4606-bf88-6f416c82d113": {
+  "image_id": "1328507689124089",
+  "image_file": "images/f0953296-c205-4606-bf88-6f416c82d113.jpg",
+  "captured_at": "2026-05-14",
+  "distance_m": 27.3,
+  "angle_diff": 16.2,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1328507689124089"
+ },
+ "4b46a04f-12b2-4d9d-8bee-dad3eeaacc45": {
+  "image_id": "1732610824605445",
+  "image_file": "images/4b46a04f-12b2-4d9d-8bee-dad3eeaacc45.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 22.8,
+  "angle_diff": 22.9,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1732610824605445"
+ },
+ "50e26c14-0377-4fff-a15c-5f63c421f9fe": {
+  "image_id": "1476550904008388",
+  "image_file": "images/50e26c14-0377-4fff-a15c-5f63c421f9fe.jpg",
+  "captured_at": "2026-04-22",
+  "distance_m": 27.0,
+  "angle_diff": 18.3,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1476550904008388"
+ },
+ "1658910a-079a-4465-9ba9-e5ede104083b": {
+  "image_id": "4130743130557645",
+  "image_file": "images/1658910a-079a-4465-9ba9-e5ede104083b.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 20.4,
+  "angle_diff": 15.9,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=4130743130557645"
+ },
+ "0f0bc67f-159e-4d9f-b71b-2c5a0ecbb8da": {
+  "image_id": "1322716049734932",
+  "image_file": "images/0f0bc67f-159e-4d9f-b71b-2c5a0ecbb8da.jpg",
+  "captured_at": "2026-04-22",
+  "distance_m": 20.6,
+  "angle_diff": 19.4,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1322716049734932"
+ },
+ "09b4938e-a5df-4716-9a2c-7b48cd6f27c5": {
+  "image_id": "1433473461464777",
+  "image_file": "images/09b4938e-a5df-4716-9a2c-7b48cd6f27c5.jpg",
+  "captured_at": "2024-09-19",
+  "distance_m": 28.3,
+  "angle_diff": 1.8,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1433473461464777"
+ },
+ "1cdf62db-de7b-430c-b3cc-4ed6cd045fcf": {
+  "image_id": "822106774212022",
+  "image_file": "images/1cdf62db-de7b-430c-b3cc-4ed6cd045fcf.jpg",
+  "captured_at": "2024-09-19",
+  "distance_m": 24.0,
+  "angle_diff": 10.2,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=822106774212022"
+ },
+ "3df3b8b3-3fb5-4859-846e-3ac39a146990": {
+  "image_id": "1335599641988267",
+  "image_file": "images/3df3b8b3-3fb5-4859-846e-3ac39a146990.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 21.1,
+  "angle_diff": 6.9,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1335599641988267"
+ },
+ "ec512677-f470-45d2-871f-e280bc931750": {
+  "image_id": "702905220953191",
+  "image_file": "images/ec512677-f470-45d2-871f-e280bc931750.jpg",
+  "captured_at": "2022-03-20",
+  "distance_m": 28.9,
+  "angle_diff": 9.9,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=702905220953191"
+ },
+ "62dc3b5b-6d26-4c47-a6ca-73b284ef47a3": {
+  "image_id": "1433473461464777",
+  "image_file": "images/62dc3b5b-6d26-4c47-a6ca-73b284ef47a3.jpg",
+  "captured_at": "2024-09-19",
+  "distance_m": 28.3,
+  "angle_diff": 1.8,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1433473461464777"
+ },
+ "3024a4d4-09c0-47eb-be99-a11f46c8f109": {
+  "image_id": "1990469091893502",
+  "image_file": "images/3024a4d4-09c0-47eb-be99-a11f46c8f109.jpg",
+  "captured_at": "2026-04-24",
+  "distance_m": 8.7,
+  "angle_diff": 18.2,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1990469091893502"
+ },
+ "8d0ee00e-b280-4608-8d59-328d0c37ee9d": {
+  "image_id": "4087657438197939",
+  "image_file": "images/8d0ee00e-b280-4608-8d59-328d0c37ee9d.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 20.4,
+  "angle_diff": 15.4,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=4087657438197939"
+ },
+ "abb56031-4eec-4349-85db-61780d56c2e8": {
+  "image_id": "1033972092777256",
+  "image_file": "images/abb56031-4eec-4349-85db-61780d56c2e8.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 6.8,
+  "angle_diff": 1.9,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1033972092777256"
+ },
+ "9300ed29-a300-408d-80d5-9829ba0a58b6": {
+  "image_id": "980155254436432",
+  "image_file": "images/9300ed29-a300-408d-80d5-9829ba0a58b6.jpg",
+  "captured_at": "2026-03-22",
+  "distance_m": 15.8,
+  "angle_diff": 10.8,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=980155254436432"
+ },
+ "20e80642-2cdc-4926-9366-8f3b896b4490": {
+  "image_id": "1997469164538303",
+  "image_file": "images/20e80642-2cdc-4926-9366-8f3b896b4490.jpg",
+  "captured_at": "2026-04-22",
+  "distance_m": 21.0,
+  "angle_diff": 22.6,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1997469164538303"
+ },
+ "bf3a7d64-3948-4f80-b7c8-fc2cf60b66f5": {
+  "image_id": "1064129292681240",
+  "image_file": "images/bf3a7d64-3948-4f80-b7c8-fc2cf60b66f5.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 16.5,
+  "angle_diff": 1.1,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1064129292681240"
+ },
+ "ad3ceb98-e0a4-4a3a-b8da-f92c5d7a239c": {
+  "image_id": "3410116832469318",
+  "image_file": "images/ad3ceb98-e0a4-4a3a-b8da-f92c5d7a239c.jpg",
+  "captured_at": "2026-04-22",
+  "distance_m": 19.9,
+  "angle_diff": 23.0,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=3410116832469318"
+ },
+ "1bbc5e74-48d7-4dfb-a594-97b95119240d": {
+  "image_id": "2405541579917391",
+  "image_file": "images/1bbc5e74-48d7-4dfb-a594-97b95119240d.jpg",
+  "captured_at": "2026-04-22",
+  "distance_m": 2.3,
+  "angle_diff": 1.0,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=2405541579917391"
+ },
+ "ee1f8f18-b3f0-4c8f-b29d-f8e7bce00936": {
+  "image_id": "915062778230694",
+  "image_file": "images/ee1f8f18-b3f0-4c8f-b29d-f8e7bce00936.jpg",
+  "captured_at": "2026-05-05",
+  "distance_m": 29.7,
+  "angle_diff": 16.4,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=915062778230694"
+ },
+ "02d09c47-f389-4cf0-82a8-c70839948112": {
+  "image_id": "1206458348298659",
+  "image_file": "images/02d09c47-f389-4cf0-82a8-c70839948112.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 22.8,
+  "angle_diff": 23.2,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1206458348298659"
+ },
+ "cb8d731c-179d-48ec-b9cd-0f10d7e48434": {
+  "image_id": "1046119701676773",
+  "image_file": "images/cb8d731c-179d-48ec-b9cd-0f10d7e48434.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 15.8,
+  "angle_diff": 23.3,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1046119701676773"
+ },
+ "20594577-4bca-4996-81f9-3eae319c444d": {
+  "image_id": "1489228429525375",
+  "image_file": "images/20594577-4bca-4996-81f9-3eae319c444d.jpg",
+  "captured_at": "2026-04-30",
+  "distance_m": 25.3,
+  "angle_diff": 21.2,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1489228429525375"
+ },
+ "759878e8-9a12-44a5-ab59-cea86ff92b0c": {
+  "image_id": "1433473461464777",
+  "image_file": "images/759878e8-9a12-44a5-ab59-cea86ff92b0c.jpg",
+  "captured_at": "2024-09-19",
+  "distance_m": 28.3,
+  "angle_diff": 1.8,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1433473461464777"
+ },
+ "59fff611-98dd-4bfa-92cf-4e8f1d784f99": {
+  "image_id": "1060410279850176",
+  "image_file": "images/59fff611-98dd-4bfa-92cf-4e8f1d784f99.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 19.2,
+  "angle_diff": 18.3,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1060410279850176"
+ },
+ "34aaa868-1a0c-4da8-a51c-16e9b30f1f92": {
+  "image_id": "1397778481757955",
+  "image_file": "images/34aaa868-1a0c-4da8-a51c-16e9b30f1f92.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 18.5,
+  "angle_diff": 20.1,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1397778481757955"
+ },
+ "74a87d40-53b6-4b14-bb27-e6ee5f865309": {
+  "image_id": "1305697708050096",
+  "image_file": "images/74a87d40-53b6-4b14-bb27-e6ee5f865309.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 12.8,
+  "angle_diff": 6.6,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1305697708050096"
+ },
+ "d3cce5d8-8cf6-449c-af19-7e75563dcb59": {
+  "image_id": "1942774986308361",
+  "image_file": "images/d3cce5d8-8cf6-449c-af19-7e75563dcb59.jpg",
+  "captured_at": "2024-09-19",
+  "distance_m": 8.6,
+  "angle_diff": 1.8,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1942774986308361"
+ },
+ "a9251e7d-8f0b-46db-9a1e-1de50c65869b": {
+  "image_id": "2742856989419879",
+  "image_file": "images/a9251e7d-8f0b-46db-9a1e-1de50c65869b.jpg",
+  "captured_at": "2026-04-21",
+  "distance_m": 29.7,
+  "angle_diff": 17.8,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=2742856989419879"
+ },
+ "1453d8aa-5ce1-419d-868f-65b90501185d": {
+  "image_id": "2875215422840408",
+  "image_file": "images/1453d8aa-5ce1-419d-868f-65b90501185d.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 19.8,
+  "angle_diff": 12.8,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=2875215422840408"
+ },
+ "661354b8-343f-49d4-b717-e427d6f969c3": {
+  "image_id": "1206458348298659",
+  "image_file": "images/661354b8-343f-49d4-b717-e427d6f969c3.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 22.8,
+  "angle_diff": 23.2,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1206458348298659"
+ },
+ "786831ac-3679-42bb-8c97-392da1dfbd4e": {
+  "image_id": "1519463006195739",
+  "image_file": "images/786831ac-3679-42bb-8c97-392da1dfbd4e.jpg",
+  "captured_at": "2026-04-22",
+  "distance_m": 28.8,
+  "angle_diff": 19.7,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1519463006195739"
+ },
+ "7c330798-1773-460b-b041-4a0db59ab5cc": {
+  "image_id": "1497927345056976",
+  "image_file": "images/7c330798-1773-460b-b041-4a0db59ab5cc.jpg",
+  "captured_at": "2026-04-22",
+  "distance_m": 18.5,
+  "angle_diff": 7.4,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1497927345056976"
+ },
+ "aa81e76d-dfcc-481a-ae79-3891330719a5": {
+  "image_id": "1077436719781006",
+  "image_file": "images/aa81e76d-dfcc-481a-ae79-3891330719a5.jpg",
+  "captured_at": "2022-03-20",
+  "distance_m": 29.2,
+  "angle_diff": 9.4,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1077436719781006"
+ },
+ "c38a3688-2d01-4beb-a101-269cb882cfe0": {
+  "image_id": "1450935512817843",
+  "image_file": "images/c38a3688-2d01-4beb-a101-269cb882cfe0.jpg",
+  "captured_at": "2026-04-22",
+  "distance_m": 18.9,
+  "angle_diff": 18.4,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1450935512817843"
+ },
+ "ee314738-b395-4269-9d2c-bbeedb023273": {
+  "image_id": "1554877972435357",
+  "image_file": "images/ee314738-b395-4269-9d2c-bbeedb023273.jpg",
+  "captured_at": "2024-09-19",
+  "distance_m": 29.9,
+  "angle_diff": 7.5,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1554877972435357"
+ },
+ "1c06376e-d462-459f-941e-d1cbde90bab3": {
+  "image_id": "2279501552878912",
+  "image_file": "images/1c06376e-d462-459f-941e-d1cbde90bab3.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 22.1,
+  "angle_diff": 12.4,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=2279501552878912"
+ },
+ "cde29b95-99c7-4d62-9f39-24ec7d5d9330": {
+  "image_id": "1441312673938943",
+  "image_file": "images/cde29b95-99c7-4d62-9f39-24ec7d5d9330.jpg",
+  "captured_at": "2026-04-21",
+  "distance_m": 27.5,
+  "angle_diff": 1.7,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1441312673938943"
+ },
+ "35241bf6-56ff-4a6c-a91a-f3d76a801749": {
+  "image_id": "1433473461464777",
+  "image_file": "images/35241bf6-56ff-4a6c-a91a-f3d76a801749.jpg",
+  "captured_at": "2024-09-19",
+  "distance_m": 28.3,
+  "angle_diff": 1.8,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1433473461464777"
+ },
+ "15c84df6-1b4a-4d70-9dbb-6024713072cd": {
+  "image_id": "1819288182114606",
+  "image_file": "images/15c84df6-1b4a-4d70-9dbb-6024713072cd.jpg",
+  "captured_at": "2024-09-19",
+  "distance_m": 17.4,
+  "angle_diff": 19.4,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1819288182114606"
+ },
+ "995654cb-91d6-4f1d-a90f-6cb038537d87": {
+  "image_id": "1572718027124907",
+  "image_file": "images/995654cb-91d6-4f1d-a90f-6cb038537d87.jpg",
+  "captured_at": "2026-04-21",
+  "distance_m": 24.5,
+  "angle_diff": 18.5,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1572718027124907"
+ },
+ "d2006ab3-5ec3-42ae-bfa8-c75697ea53bc": {
+  "image_id": "1035872805511664",
+  "image_file": "images/d2006ab3-5ec3-42ae-bfa8-c75697ea53bc.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 13.3,
+  "angle_diff": 20.4,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1035872805511664"
+ },
+ "40aea4c9-34f8-4e63-9237-b45c9e511dad": {
+  "image_id": "1335909118697788",
+  "image_file": "images/40aea4c9-34f8-4e63-9237-b45c9e511dad.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 4.0,
+  "angle_diff": 0.6,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1335909118697788"
+ },
+ "8c4ddd25-4e52-4adf-a61a-5da0bbb1d3fb": {
+  "image_id": "1720254885880621",
+  "image_file": "images/8c4ddd25-4e52-4adf-a61a-5da0bbb1d3fb.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 25.7,
+  "angle_diff": 13.2,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1720254885880621"
+ },
+ "0a6a5a0f-8d77-4cbd-a627-e8057cb385a9": {
+  "image_id": "4087657438197939",
+  "image_file": "images/0a6a5a0f-8d77-4cbd-a627-e8057cb385a9.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 20.4,
+  "angle_diff": 15.4,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=4087657438197939"
+ },
+ "87bc4368-65a7-400c-a106-32e5a1ac3230": {
+  "image_id": "1566728448495231",
+  "image_file": "images/87bc4368-65a7-400c-a106-32e5a1ac3230.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 19.6,
+  "angle_diff": 21.9,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1566728448495231"
+ },
+ "6d68d4dc-c800-49c6-88e6-74cb2540ac67": {
+  "image_id": "1888918205098575",
+  "image_file": "images/6d68d4dc-c800-49c6-88e6-74cb2540ac67.jpg",
+  "captured_at": "2026-05-14",
+  "distance_m": 27.4,
+  "angle_diff": 14.7,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1888918205098575"
+ },
+ "335fc331-e17a-4e43-81ca-906b67e800a5": {
+  "image_id": "3384122618439409",
+  "image_file": "images/335fc331-e17a-4e43-81ca-906b67e800a5.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 28.0,
+  "angle_diff": 23.2,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=3384122618439409"
+ },
+ "1b4aa7bc-c46e-4104-bbea-c16ab50edf75": {
+  "image_id": "1433473461464777",
+  "image_file": "images/1b4aa7bc-c46e-4104-bbea-c16ab50edf75.jpg",
+  "captured_at": "2024-09-19",
+  "distance_m": 28.3,
+  "angle_diff": 1.8,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1433473461464777"
+ },
+ "4dc27988-8d30-457a-a480-2415dc4d1c41": {
+  "image_id": "2298161747374618",
+  "image_file": "images/4dc27988-8d30-457a-a480-2415dc4d1c41.jpg",
+  "captured_at": "2026-05-14",
+  "distance_m": 9.9,
+  "angle_diff": 11.4,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=2298161747374618"
+ },
+ "470a2b4d-277d-4ae7-9b5e-229b91859c5a": {
+  "image_id": "888972720545157",
+  "image_file": "images/470a2b4d-277d-4ae7-9b5e-229b91859c5a.jpg",
+  "captured_at": "2024-09-19",
+  "distance_m": 29.5,
+  "angle_diff": 14.5,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=888972720545157"
+ },
+ "121919a6-1211-4861-b469-c0b7734438cb": {
+  "image_id": "888972720545157",
+  "image_file": "images/121919a6-1211-4861-b469-c0b7734438cb.jpg",
+  "captured_at": "2024-09-19",
+  "distance_m": 22.4,
+  "angle_diff": 19.4,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=888972720545157"
+ },
+ "6ccc9eb9-b3d3-405f-9115-1b0f1e523ca3": {
+  "image_id": "1010976301933852",
+  "image_file": "images/6ccc9eb9-b3d3-405f-9115-1b0f1e523ca3.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 18.1,
+  "angle_diff": 18.9,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1010976301933852"
+ },
+ "6dacbf41-f1af-469a-8e64-926858274dca": {
+  "image_id": "1455766692502147",
+  "image_file": "images/6dacbf41-f1af-469a-8e64-926858274dca.jpg",
+  "captured_at": "2026-05-14",
+  "distance_m": 10.2,
+  "angle_diff": 5.2,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1455766692502147"
+ },
+ "1cff02e7-7c9a-4cf5-93a7-bb664211ca95": {
+  "image_id": "949019181171668",
+  "image_file": "images/1cff02e7-7c9a-4cf5-93a7-bb664211ca95.jpg",
+  "captured_at": "2026-04-22",
+  "distance_m": 26.9,
+  "angle_diff": 18.3,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=949019181171668"
+ },
+ "f6ad396e-ea0f-436c-8ade-b2d0de0da02d": {
+  "image_id": "1433473461464777",
+  "image_file": "images/f6ad396e-ea0f-436c-8ade-b2d0de0da02d.jpg",
+  "captured_at": "2024-09-19",
+  "distance_m": 28.3,
+  "angle_diff": 1.8,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1433473461464777"
+ },
+ "7d3a911a-e61b-4631-ac71-46d8a3df15af": {
+  "image_id": "1263521795446942",
+  "image_file": "images/7d3a911a-e61b-4631-ac71-46d8a3df15af.jpg",
+  "captured_at": "2026-04-21",
+  "distance_m": 15.1,
+  "angle_diff": 7.3,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1263521795446942"
+ },
+ "f604ee02-bb09-4240-98d4-56703d994911": {
+  "image_id": "1283338990658655",
+  "image_file": "images/f604ee02-bb09-4240-98d4-56703d994911.jpg",
+  "captured_at": "2026-05-14",
+  "distance_m": 9.1,
+  "angle_diff": 15.9,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1283338990658655"
+ },
+ "736649c7-f779-4ea7-8d85-e518ca66cbde": {
+  "image_id": "4520035554885142",
+  "image_file": "images/736649c7-f779-4ea7-8d85-e518ca66cbde.jpg",
+  "captured_at": "2026-04-22",
+  "distance_m": 28.5,
+  "angle_diff": 24.2,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=4520035554885142"
+ },
+ "0c298b99-1f75-4f49-997a-83a22b6b7a46": {
+  "image_id": "1016749015596198",
+  "image_file": "images/0c298b99-1f75-4f49-997a-83a22b6b7a46.jpg",
+  "captured_at": "2022-03-20",
+  "distance_m": 7.7,
+  "angle_diff": 5.3,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1016749015596198"
+ },
+ "019ed5ab-b340-43df-bf09-e7c366ac0452": {
+  "image_id": "1019567334308685",
+  "image_file": "images/019ed5ab-b340-43df-bf09-e7c366ac0452.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 25.7,
+  "angle_diff": 23.6,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1019567334308685"
+ },
+ "1f822c78-d13d-4022-8429-6fe61e4e6091": {
+  "image_id": "2162180554516063",
+  "image_file": "images/1f822c78-d13d-4022-8429-6fe61e4e6091.jpg",
+  "captured_at": "2026-04-24",
+  "distance_m": 28.6,
+  "angle_diff": 21.1,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=2162180554516063"
+ },
+ "f983e1ad-ece3-4261-ba43-e52adaf89e22": {
+  "image_id": "1866014217416387",
+  "image_file": "images/f983e1ad-ece3-4261-ba43-e52adaf89e22.jpg",
+  "captured_at": "2026-04-22",
+  "distance_m": 15.5,
+  "angle_diff": 11.6,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1866014217416387"
+ },
+ "e936e04c-8d92-4d53-9d83-e2ead8f48f30": {
+  "image_id": "1362378765262459",
+  "image_file": "images/e936e04c-8d92-4d53-9d83-e2ead8f48f30.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 18.3,
+  "angle_diff": 19.1,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1362378765262459"
+ },
+ "8eaa788d-1d27-4046-b5a9-d143ec7737c9": {
+  "image_id": "1484753753031883",
+  "image_file": "images/8eaa788d-1d27-4046-b5a9-d143ec7737c9.jpg",
+  "captured_at": "2026-04-22",
+  "distance_m": 17.1,
+  "angle_diff": 10.2,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1484753753031883"
+ },
+ "e80a84e3-62dc-40f2-bb3a-c3d8fb44dda5": {
+  "image_id": "946699998066706",
+  "image_file": "images/e80a84e3-62dc-40f2-bb3a-c3d8fb44dda5.jpg",
+  "captured_at": "2026-04-22",
+  "distance_m": 28.2,
+  "angle_diff": 23.3,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=946699998066706"
+ },
+ "4fbe96ad-3d5d-48b3-9bc4-c9cc64465eb6": {
+  "image_id": "1700533670946365",
+  "image_file": "images/4fbe96ad-3d5d-48b3-9bc4-c9cc64465eb6.jpg",
+  "captured_at": "2026-04-23",
+  "distance_m": 29.7,
+  "angle_diff": 23.2,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1700533670946365"
+ },
+ "29fff7f8-fbcd-457a-932f-22dba63b5dcf": {
+  "image_id": "1309070374424510",
+  "image_file": "images/29fff7f8-fbcd-457a-932f-22dba63b5dcf.jpg",
+  "captured_at": "2026-04-21",
+  "distance_m": 26.6,
+  "angle_diff": 14.4,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1309070374424510"
+ },
+ "13b72c07-b00e-4d6b-bb00-6da6dcc779af": {
+  "image_id": "954931270237938",
+  "image_file": "images/13b72c07-b00e-4d6b-bb00-6da6dcc779af.jpg",
+  "captured_at": "2026-04-22",
+  "distance_m": 12.1,
+  "angle_diff": 22.3,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=954931270237938"
+ },
+ "6ab1ae28-80bf-4f36-bbfb-8227fed3a4f5": {
+  "image_id": "4263316627216794",
+  "image_file": "images/6ab1ae28-80bf-4f36-bbfb-8227fed3a4f5.jpg",
+  "captured_at": "2026-04-22",
+  "distance_m": 19.4,
+  "angle_diff": 13.0,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=4263316627216794"
+ },
+ "110e2c3a-eea5-471b-bf6c-7240f81dedbe": {
+  "image_id": "1053258607165189",
+  "image_file": "images/110e2c3a-eea5-471b-bf6c-7240f81dedbe.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 29.1,
+  "angle_diff": 19.8,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1053258607165189"
+ },
+ "e3b0d709-af47-4951-b2a2-4dc79bddf2e6": {
+  "image_id": "1206458348298659",
+  "image_file": "images/e3b0d709-af47-4951-b2a2-4dc79bddf2e6.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 22.8,
+  "angle_diff": 23.2,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1206458348298659"
+ },
+ "80700b62-a0fd-4714-a2b5-e197d63237b2": {
+  "image_id": "1270894338007810",
+  "image_file": "images/80700b62-a0fd-4714-a2b5-e197d63237b2.jpg",
+  "captured_at": "2026-04-24",
+  "distance_m": 14.9,
+  "angle_diff": 24.4,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1270894338007810"
+ },
+ "1370fce7-a273-419c-afad-fb5d152900ae": {
+  "image_id": "1052251067292243",
+  "image_file": "images/1370fce7-a273-419c-afad-fb5d152900ae.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 29.3,
+  "angle_diff": 17.3,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1052251067292243"
+ },
+ "1580ce37-80fe-490e-9c91-d5ae00af4283": {
+  "image_id": "1433473461464777",
+  "image_file": "images/1580ce37-80fe-490e-9c91-d5ae00af4283.jpg",
+  "captured_at": "2024-09-19",
+  "distance_m": 18.3,
+  "angle_diff": 5.2,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1433473461464777"
+ },
+ "ef7f3a8d-2380-48b5-8594-1758a46ac975": {
+  "image_id": "1433473461464777",
+  "image_file": "images/ef7f3a8d-2380-48b5-8594-1758a46ac975.jpg",
+  "captured_at": "2024-09-19",
+  "distance_m": 28.3,
+  "angle_diff": 1.8,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1433473461464777"
+ },
+ "7ee845b9-8f66-42f4-a5c6-9f1b6946c316": {
+  "image_id": "1433473461464777",
+  "image_file": "images/7ee845b9-8f66-42f4-a5c6-9f1b6946c316.jpg",
+  "captured_at": "2024-09-19",
+  "distance_m": 28.3,
+  "angle_diff": 1.8,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1433473461464777"
+ },
+ "8a0a2741-644a-48c4-a231-b9d1a5b75c75": {
+  "image_id": "1271482797946950",
+  "image_file": "images/8a0a2741-644a-48c4-a231-b9d1a5b75c75.jpg",
+  "captured_at": "2026-04-21",
+  "distance_m": 20.6,
+  "angle_diff": 23.8,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=1271482797946950"
+ },
+ "6d5711e4-06d4-4a8e-b5b2-d330afdf2c14": {
+  "image_id": "4087657438197939",
+  "image_file": "images/6d5711e4-06d4-4a8e-b5b2-d330afdf2c14.jpg",
+  "captured_at": "2026-07-24",
+  "distance_m": 20.4,
+  "angle_diff": 15.4,
+  "mapillary_url": "https://www.mapillary.com/app/?pKey=4087657438197939"
+ }
+}
